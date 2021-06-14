@@ -1,4 +1,4 @@
-package cuckoo
+package spinlock
 
 import (
 	"sync/atomic"
